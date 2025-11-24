@@ -23,7 +23,7 @@ We will start by visiting https://www.whatismyipaddress.com. Next, open Notepad 
 
 <br/>
 
-Next, we will create a VM in Microsoft Azure
+Next, we will create a VM in Microsoft Azure.
 <br/>
   
 <img src="https://github.com/aaronsethroberson/vpn-azure/blob/main/2.jpg" height="80%" width="80%" alt=""/>
@@ -31,14 +31,14 @@ Next, we will create a VM in Microsoft Azure
 
 <br/>
 
-Next we will log into the VM with Remote Desktop
+Next we will log into the VM with Remote Desktop.
 <br/>
   
 <img src="https://github.com/aaronsethroberson/vpn-azure/blob/main/4.jpg" height="80%" width="80%" alt=""/>
 
 <br/>
 
-After logging into the VM through the remote desktop, we'll revisit https://www.whatismyipaddress.com. Then, reopen Notepad on your personal computer and note the changes in your physical IP address and location. This difference is due to the RDP functioning like a VPN, essentially tunneling a connection between your personal computer and the Virtual Machine
+After logging into the VM through the remote desktop, we'll revisit https://www.whatismyipaddress.com. Then, reopen Notepad on your personal computer and note the changes in your physical IP address and location. This difference is due to the RDP functioning like a VPN, essentially tunneling a connection between your personal computer and the Virtual Machine.
 <br/>
   
 <img src="https://github.com/aaronsethroberson/vpn-azure/blob/main/5.jpg" height="80%" width="80%" alt=""/>
@@ -52,7 +52,7 @@ On our personal computers, we will sign up for the free version of ProtonVPN.
 
 <br />
 
-After we've created our account, we will download the windows version
+After we've created our account, we will download the windows version.
 <br/>
  
 <img src="https://github.com/aaronsethroberson/vpn-azure/blob/main/7.jpg" height="80%" width="80%" alt=""/>
@@ -67,7 +67,7 @@ Once the download begins, we will install the software. After the installation i
 
 <br/>
 
-Selecet "Quick Connect" and it the VPN will randomly choose and start your connection
+Selecet "Quick Connect" and it the VPN will randomly choose and start your connection.
 <br/>
   
 <img src="https://github.com/aaronsethroberson/vpn-azure/blob/main/10.jpg" height="80%" width="80%" alt=""/>
